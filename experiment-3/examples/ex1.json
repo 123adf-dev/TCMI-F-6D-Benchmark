@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "What is cardiac output?",
+            "choices": [
+                "Stroke volume × heart rate.",
+                "Systemic vascular resistance × heart rate.",
+                "Blood pressure × heart rate.",
+                "Preload × stroke volume."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following is true with regards to the anatomy involved in the rectal examination?",
+            "choices": [
+                "The sacrum is palpated anteriorly",
+                "The pubic bone is palpated anteriorly in both sexes",
+                "In the male the testes can be appreciated anteriorly",
+                "The cervix can sometimes be felt anteriorly in the female"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:",
+            "choices": [
+                "converted into arginine and released from the muscle.",
+                "converted into alanine and glutamine and released from the muscle.",
+                "converted into urea and released from the muscle.",
+                "used to synthesise purines and pyrimidines in the muscle."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In the assessment of the hand function which of the following is true?",
+            "choices": [
+                "Abduction of the thumb is supplied by spinal root T2",
+                "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+                "Finger adduction is supplied by the median nerve",
+                "Finger abduction is mediated by the palmar interossei"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who set the world record for the mile race in 1886?",
+            "choices": [
+                "R Bannister",
+                "S Coe",
+                "J DiMaggio",
+                "WG George"
+            ],
+            "answer": 3
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "A young woman comes to the clinic for feeling like her “heart is beating too fast”. When her pulse is recorded it is in normal range. Upon interview, you learn that she is often concerned about lots of things. In fact, she can’t remember many instances in which she has not had some event playing over and over in her head. She says that she often seeks out relationships to comfort her self-esteem, and admits she stays in these relationships too long for fear of being alone. What personality cluster would this person fall under?",
+            "choices": [
+                "Cluster A",
+                "Cluster B",
+                "Cluster C",
+                "This does not seem like a personality disorder."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",
+            "choices": [
+                "Increasing temperature, increasing moles of gas",
+                "Increasing temperature, increasing volume",
+                "Decreasing volume, decreasing temperature",
+                "Decreasing moles of gas, increasing volume"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "The main factors determining success in sport are:",
+            "choices": [
+                "a high energy diet and large appetite.",
+                "high intelligence and motivation to succeed.",
+                "a good coach and the motivation to succeed.",
+                "innate ability and the capacity to respond to the training stimulus."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The creatine kinase reaction is:",
+            "choices": [
+                "irreversible.",
+                "slow compared with glycolysis.",
+                "not activated until all the ATP has been used up.",
+                "inhibited by low pH in the muscle."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "In general, the higher the intensity of exercise, the greater the proportional contribution of:",
+            "choices": [
+                "aerobic energy production.",
+                "anaerobic energy production.",
+                "the TCA cycle (Krebs",
+                " "
+            ],
+            "answer": 1
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "Which of the following conditions does not show multifactorial inheritance?",
+            "choices": [
+                "Pyloric stenosis",
+                "Schizophrenia",
+                "Spina bifida (neural tube defects)",
+                "Marfan syndrome"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A gene showing codominance",
+            "choices": [
+                "has both alleles independently expressed in the heterozygote",
+                "has one allele dominant to the other",
+                "has alleles tightly linked on the same chromosome",
+                "has alleles expressed at the same time in development"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "The presence of an extra digit is referred to as __________.",
+            "choices": [
+                "arachnodactyly",
+                "brachydactyly",
+                "clinodactyly",
+                "polydactyly"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "DNA ligase is",
+            "choices": [
+                "an enzyme that joins fragments in normal DNA replication",
+                "an enzyme of bacterial origin which cuts DNA at defined base sequences",
+                "an enzyme that facilitates transcription of specific genes",
+                "an enzyme which limits the level to which a particular nutrient reaches"
+            ],
+            "answer": 0
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "The \"fear of becoming fat\" observed in patients with AN is best understood as a:",
+            "choices": [
+                "Paranoid delusion",
+                "Somatic delusion",
+                "Overvalued idea",
+                "Obsessive idea"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What are entitlements to food?",
+            "choices": [
+                "The term refers to social welfare programmes, e.g. the Fair Price food shops in India.",
+                "It means the pathways through which people access food, whether by production, purchase, social protection programmes or other means.",
+                "When countries enact right-to-food legislation, then people are entitled to food.",
+                "The term is a reference to agrarian reform programmes that provide farmers with land titles."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following statements is correct (according to knowledge in 2020)?\n",
+            "choices": [
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener aspartame",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener saccharin",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener sucralose",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener acesulfame K"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following will result in an increase in the rate of tissue protein synthesis?",
+            "choices": [
+                "Increased glucagon secretion in the fasting state.",
+                "Increased insulin secretion in the fed state.",
+                "Increased availability of lysine in the fed state.",
+                "Secretion of cortisol under conditions of stress."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following is not a reason for following a vegetarian diet?",
+            "choices": [
+                "Religious belief",
+                "For better health",
+                "To reduce global carbon dioxide and methane emissions",
+                "None of the options given are correct"
+            ],
+            "answer": 3
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "To achieve an 0/1 loss estimate that is less than 1 percent of the true 0/1 loss (with probability 95%), according to Hoeffding's inequality the IID test set must have how many examples?",
+            "choices": [
+                "around 10 examples",
+                "around 100 examples",
+                "between 100 and 500 examples",
+                "more than 1000 examples"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "You are reviewing papers for the World’s Fanciest Machine Learning Conference, and you see submissions with the following claims. Which ones would you consider accepting? ",
+            "choices": [
+                "My method achieves a training error lower than all previous methods!",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.)",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)",
+                "My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "The number of test examples needed to get statistically significant results should be _",
+            "choices": [
+                "Larger if the error rate is larger.",
+                "Larger if the error rate is smaller.",
+                "Smaller if the error rate is smaller.",
+                "It does not matter."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Traditionally, when we have a real-valued input attribute during decision-tree learning we consider a binary split according to whether the attribute is above or below some threshold. Pat suggests that instead we should just have a multiway split with one branch for each of the distinct values of the attribute. From the list below choose the single biggest problem with Pat’s suggestion:",
+            "choices": [
+                "It is too computationally expensive.",
+                "It would probably result in a decision tree that scores badly on the training set and a testset.",
+                "It would probably result in a decision tree that scores well on the training set but badly on a testset.",
+                "It would probably result in a decision tree that scores well on a testset but badly on a training set."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3.",
+            "choices": [
+                "True, True",
+                "False, False",
+                "True, False",
+                "False, True"
+            ],
+            "answer": 3
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "A certain pipelined RISC machine has 8 general-purpose registers R0, R1, . . . , R7 and supports the following operations.\nADD Rs1, Rs2, Rd Add Rs1 to Rs2 and put the sum in Rd\nMUL Rs1, Rs2, Rd Multiply Rs1 by Rs2 and put the product in Rd\nAn operation normally takes one cycle; however, an operation takes two cycles if it produces a result required by the immediately following operation in an operation sequence. Consider the expression AB + ABC + BC, where variables A, B, C are located in registers R0, R1, R2. If the contents of these three registers must not be modified, what is the minimum number of clock cycles required for an operation sequence that computes the value of AB + ABC + BC?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The Singleton design pattern is used to guarantee that only a single instance of a class may be instantiated. Which of the following is (are) true of this design pattern?\nI. The Singleton class has a static factory method to provide its instance.\nII. The Singleton class can be a subclass of another class.\nIII. The Singleton class has a private constructor.",
+            "choices": [
+                "I only",
+                "II only",
+                "III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "If L is a language accepted by some automaton M, which of the following is (are) true?\nI. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.\nII. If M is a deterministic pushdown automaton, then L is accepted by some nondeterministic pushdown automaton.\nIII. If M is a nondeterministic pushdown automaton, then L is accepted by some deterministic Turing machine.",
+            "choices": [
+                "III only",
+                "I and II only",
+                "II and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Consider a computer design in which multiple processors, each with a private cache memory, share global memory using a single bus. This bus is the critical system resource. Each processor can execute one instruction every 500 nanoseconds as long as memory references are satisfied by its local cache. When a cache miss occurs, the processor is delayed for an additional 2,000 nanoseconds. During half of this additional delay, the bus is dedicated to serving the cache miss. During the other half, the processor cannot continue, but the bus is free to service requests from other processors. On average, each instruction requires 2 memory references. On average, cache misses occur on 1 percent of references. What proportion of the capacity of the bus would a single processor consume, ignoring delays due to competition from other processors?",
+            "choices": [
+                "1/50",
+                "1/27",
+                "1/25",
+                "2/27"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Church's thesis equates the concept of \"computable function\" with those functions computable by, for example, Turing machines. Which of the following is true of Church's thesis?",
+            "choices": [
+                "It was first proven by Alan Turing.",
+                "It has not yet been proven, but finding a proof is a subject of active research.",
+                "It can never be proven.",
+                "It is now in doubt because of the advent of parallel computers."
+            ],
+            "answer": 2
+        }
+    ]
+}

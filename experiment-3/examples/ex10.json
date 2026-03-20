@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "The following are features of Alzheimer's disease except:",
+            "choices": [
+                "short-term memory loss.",
+                "confusion.",
+                "poor attention.",
+                "drowsiness."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is true of blackouts and dizziness?",
+            "choices": [
+                "Confusion following a blackout is strongly suggestive of a fit",
+                "Pre-syncope is another term for a blackout",
+                "An epileptic fit always leads to the loss of consciousness",
+                "In the investigation of a blackout a blood sugar estimation is of no value"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "For patients with asthma, how many times a day should a peak flow reading be taken?",
+            "choices": [
+                "Daily.",
+                "Twice a day.",
+                "Three times a week.",
+                "Once a week."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "How can several different proteins be produced from the same gene?",
+            "choices": [
+                "By selective transcription of different parts of the DNA in the gene.",
+                "By doubling or tripling the length of the mRNA molecule produced from the primary transcript.",
+                "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+                "By splicing of the mRNA molecule after it has been formed from the primary transcript."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In the assessment of the hand function which of the following is true?",
+            "choices": [
+                "Abduction of the thumb is supplied by spinal root T2",
+                "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+                "Finger adduction is supplied by the median nerve",
+                "Finger abduction is mediated by the palmar interossei"
+            ],
+            "answer": 1
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "An allele that is masked is referred to as:",
+            "choices": [
+                "recessive.",
+                "redundant.",
+                "repressed.",
+                "reclusive."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "An expected side effect of creatine supplementation is:",
+            "choices": [
+                "muscle weakness.",
+                "gain in body mass.",
+                "muscle cramps.",
+                "loss of electrolytes."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The two principal contractile proteins found in skeletal muscle are:",
+            "choices": [
+                "actin and troponin.",
+                "actin and myosin.",
+                "troponin and tropomyosin.",
+                "myosin and tropomyosin."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In all-out exercise such as sprinting the first fibre types to fatigue are the:",
+            "choices": [
+                "Type I fibres.",
+                "Type Ia fibres.",
+                "Type IIa fibres.",
+                "Type IIX fibres."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The recommended dose of creatine to load the muscles of a 70 kg man within one week is:",
+            "choices": [
+                "2 g/day.",
+                "5 g/day.",
+                "10 g/day.",
+                "20 g/day."
+            ],
+            "answer": 3
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "A gene showing codominance",
+            "choices": [
+                "has both alleles independently expressed in the heterozygote",
+                "has one allele dominant to the other",
+                "has alleles tightly linked on the same chromosome",
+                "has alleles expressed at the same time in development"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Marfan syndrome is caused by mutations in the gene which encodes _______.",
+            "choices": [
+                "Collagen",
+                "Dystrophin",
+                "Elastin",
+                "Fibrillin"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Assuming that the level of glucose is low, a mutation in the repressor of the lac operon in E. coli, preventing binding of the repressor to the operator, should result in:",
+            "choices": [
+                "constitutive expression of the lac operon genes",
+                "lack of expression or reduced expression of the lac operon genes under all circumstances",
+                "expression of the genes only when lactose is present",
+                "expression of the genes only when lactose is absent"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "If an autosomal recessive disorder which shows Hardy-Weinberg equilibrium has an incidence of 1 in 6400 then the frequency of carriers is approximately _______.",
+            "choices": [
+                "1 in 20",
+                "1 in 40",
+                "1 in 80",
+                "1 in 160"
+            ],
+            "answer": 1
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Which of the following is the most plausible explanation for the protective effect of dietary fibre against cancer of the colon, as of 2020?\n",
+            "choices": [
+                "Propionic acid, formed during colonic fibre fermentation inhibits liver fatty acid synthesis",
+                "Butyric acid, formed during colonic fibre fermentation stimulates \"silencing\" of the SLC5A8 tumour suppressor gene",
+                "None of these options are correct",
+                "Butyric acid, formed during colonic fibre fermentation stimulates anti-oxidant defences in the colon"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following statements is correct?",
+            "choices": [
+                "Insulin suppresses the activity of glycogen synthase",
+                "Insulin mediates glucose uptake in the brain",
+                "\"Prediabetes\" is a condition characterized by an increased risk for the future development of type 2 diabetes",
+                "The rise in insulin concentration after meal ingestion is reduced in type 1 but not in type 2 diabetes"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following mechanisms contributes to a decrease in plasma calcium concentration?",
+            "choices": [
+                "The action of vitamin D on the intestine",
+                "The action of parathyroid hormone on the intestine",
+                "The action of parathyroid hormone on the kidney",
+                "The action of calcitonin on the kidney"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is the most frequently used anthropometric measure to estimate body mass?",
+            "choices": [
+                "Fat-free mass",
+                "Body fat",
+                "Body height",
+                "Body weight"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Why were low-carbohydrate diets not recommended previously?",
+            "choices": [
+                "Due to less weight loss efficacy",
+                "Due to low adherence to the diet",
+                "Due to the high protein content of the diet",
+                "Due to possible cardiovascular side-effects"
+            ],
+            "answer": 3
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]]",
+            "choices": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which image data augmentation is most common for natural images?",
+            "choices": [
+                "random crop and horizontal flip",
+                "random crop and vertical flip",
+                "posterization",
+                "dithering"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2).",
+            "choices": [
+                "True, True",
+                "False, False",
+                "True, False",
+                "False, True"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3.",
+            "choices": [
+                "True, True",
+                "False, False",
+                "True, False",
+                "False, True"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "You are reviewing papers for the World’s Fanciest Machine Learning Conference, and you see submissions with the following claims. Which ones would you consider accepting? ",
+            "choices": [
+                "My method achieves a training error lower than all previous methods!",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.)",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)",
+                "My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)"
+            ],
+            "answer": 2
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "The Singleton design pattern is used to guarantee that only a single instance of a class may be instantiated. Which of the following is (are) true of this design pattern?\nI. The Singleton class has a static factory method to provide its instance.\nII. The Singleton class can be a subclass of another class.\nIII. The Singleton class has a private constructor.",
+            "choices": [
+                "I only",
+                "II only",
+                "III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "If L is a language accepted by some automaton M, which of the following is (are) true?\nI. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.\nII. If M is a deterministic pushdown automaton, then L is accepted by some nondeterministic pushdown automaton.\nIII. If M is a nondeterministic pushdown automaton, then L is accepted by some deterministic Turing machine.",
+            "choices": [
+                "III only",
+                "I and II only",
+                "II and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Consider the following possible data structures for a set of n distinct integers.\nI. A min-heap\nII. An array of length n sorted in increasing order\nIII. A balanced binary search tree\nFor which of these data structures is the number of steps needed to find and remove the 7th largest element O(log n) in the worst case?",
+            "choices": [
+                "I only",
+                "II only",
+                "I and II",
+                "II and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Let f(X) = if x = 1 then 0 else [x * f(x - 1) + x**2]. The value of f(4) is",
+            "choices": [
+                "53",
+                "29",
+                "50",
+                "100"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine?\nI. Evaluation order of rules\nII. Evaluation order of clauses\nIII. Evaluation order of arguments in each clause",
+            "choices": [
+                "II only",
+                "I and II only",
+                "I and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "Which of the following is true of blackouts and dizziness?",
+            "choices": [
+                "Confusion following a blackout is strongly suggestive of a fit",
+                "Pre-syncope is another term for a blackout",
+                "An epileptic fit always leads to the loss of consciousness",
+                "In the investigation of a blackout a blood sugar estimation is of no value"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "How can several different proteins be produced from the same gene?",
+            "choices": [
+                "By selective transcription of different parts of the DNA in the gene.",
+                "By doubling or tripling the length of the mRNA molecule produced from the primary transcript.",
+                "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+                "By splicing of the mRNA molecule after it has been formed from the primary transcript."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In the assessment of the hand function which of the following is true?",
+            "choices": [
+                "Abduction of the thumb is supplied by spinal root T2",
+                "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+                "Finger adduction is supplied by the median nerve",
+                "Finger abduction is mediated by the palmar interossei"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "For patients with asthma, how many times a day should a peak flow reading be taken?",
+            "choices": [
+                "Daily.",
+                "Twice a day.",
+                "Three times a week.",
+                "Once a week."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is erythema?",
+            "choices": [
+                "Inflammation of the sweat glands.",
+                "Redness of the skin due to congestion of the capillaries.",
+                "A form of skin infection.",
+                "Redness of the skin caused by pressure."
+            ],
+            "answer": 1
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "Glucose is transported into the muscle cell:",
+            "choices": [
+                "via protein transporters called GLUT4.",
+                "only in the presence of insulin.",
+                "via hexokinase.",
+                "via monocarbylic acid transporters."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Somatic eukaryotic cells in the human body proceed normally through repetitive phases of the cell cycle in order to divide and make replicates of themselves. The point at which a cell commits to dividing is known as the restriction point (R). Prior to this, how many chromosomes and chromatids does the cell have?",
+            "choices": [
+                "23 chromosomes, 46 chromatids",
+                "46 chromosomes, 92 chromatids",
+                "23 chromosomes, 23 chromatids",
+                "46 chromosomes, 46 chromatids"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is not a true statement?",
+            "choices": [
+                "Muscle glycogen is broken down enzymatically to glucose-1-phosphate",
+                "Elite endurance runners have a high proportion of Type I fibres in their leg muscles",
+                "Liver glycogen is important in the maintenance of the blood glucose concentration",
+                "Insulin promotes glucose uptake by all tissues in the body"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The creatine kinase reaction is:",
+            "choices": [
+                "irreversible.",
+                "slow compared with glycolysis.",
+                "not activated until all the ATP has been used up.",
+                "inhibited by low pH in the muscle."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption?",
+            "choices": [
+                "Lipase",
+                "Elastinogen",
+                "Trypsinogen",
+                "Carboxypeptidase"
+            ],
+            "answer": 2
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "RFLP analysis is a technique that",
+            "choices": [
+                "uses hybridization to detect specific DNA restriction fragments in genomic DNA",
+                "is used to determine whether a gene is transcribed in specific cells",
+                "measures the transfer frequency of genes during conjugation",
+                "is used to detect genetic variation at the protein level"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following conditions does not show multifactorial inheritance?",
+            "choices": [
+                "Pyloric stenosis",
+                "Schizophrenia",
+                "Spina bifida (neural tube defects)",
+                "Marfan syndrome"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Repeat core sequences consisting of 2, 3, or 4 base pairs are known as what?",
+            "choices": [
+                "Single nucleotide polymorphisms (SNPs)",
+                "Microsatellites",
+                "Minisatellites",
+                "Satellites"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following statements about heritability are true?",
+            "choices": [
+                "is a measure of the level of heterozygotes in a population",
+                "is a measure of the proportion of variation that is due to genetic causes",
+                "is a measure of proportion of repeated DNA in an organism",
+                "is a measure of level of gene linkage"
+            ],
+            "answer": 1
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Which of the following is a function of vitamin B12?",
+            "choices": [
+                "Synthesis of TMP (thymidine monophosphate)",
+                "Decarboxylation of amino acids to form amine neurotransmitters",
+                "Synthesis of methionine from homocysteine",
+                "Carboxylation of pyruvate to oxaloacetate"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following will result in an increase in the rate of tissue protein synthesis?",
+            "choices": [
+                "Increased glucagon secretion in the fasting state.",
+                "Increased insulin secretion in the fed state.",
+                "Increased availability of lysine in the fed state.",
+                "Secretion of cortisol under conditions of stress."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What are the functions of dietary fat?",
+            "choices": [
+                "Provide energy to the body",
+                "Form part of cellular membranes",
+                "Cell signalling",
+                "All options given are correct"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following vitamins is involved in transamination of amino acids?",
+            "choices": [
+                "Niacin",
+                "Riboflavin",
+                "Thiamin",
+                "Vitamin B6"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What was the Green Revolution?",
+            "choices": [
+                "The term refers to the use of plant residues (",
+                ") for fertiliser.",
+                "It is a reference to the 1992 UN Conference on Environment and Development.",
+                "It refers to the appointment of Green Party ministers in Germany",
+                " "
+            ],
+            "answer": 3
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "The number of test examples needed to get statistically significant results should be _",
+            "choices": [
+                "Larger if the error rate is larger.",
+                "Larger if the error rate is smaller.",
+                "Smaller if the error rate is smaller.",
+                "It does not matter."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Traditionally, when we have a real-valued input attribute during decision-tree learning we consider a binary split according to whether the attribute is above or below some threshold. Pat suggests that instead we should just have a multiway split with one branch for each of the distinct values of the attribute. From the list below choose the single biggest problem with Pat’s suggestion:",
+            "choices": [
+                "It is too computationally expensive.",
+                "It would probably result in a decision tree that scores badly on the training set and a testset.",
+                "It would probably result in a decision tree that scores well on the training set but badly on a testset.",
+                "It would probably result in a decision tree that scores well on a testset but badly on a training set."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In Yann LeCun's cake, the cherry on top is",
+            "choices": [
+                "reinforcement learning",
+                "self-supervised learning",
+                "unsupervised learning",
+                "supervised learning"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \\sum (y_n − β_0)^2 . We have a half term in the front because,",
+            "choices": [
+                "scaling MSE by half makes gradient descent converge faster.",
+                "presence of half makes it easy to do grid search.",
+                "it does not matter whether half is there or not.",
+                "none of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A 6-sided die is rolled 15 times and the results are: side 1 comes up 0 times; side 2: 1 time; side 3: 2 times; side 4: 3 times; side 5: 4 times; side 6: 5 times. Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",
+            "choices": [
+                "2.0/15",
+                "1.0/7",
+                "3.0/16",
+                "1.0/5"
+            ],
+            "answer": 1
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine?\nI. Evaluation order of rules\nII. Evaluation order of clauses\nIII. Evaluation order of arguments in each clause",
+            "choices": [
+                "II only",
+                "I and II only",
+                "I and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Of the following page-replacement policies, which is guaranteed to incur the minimum number of page faults?",
+            "choices": [
+                "Replace the page whose next reference will be the longest time in the future.",
+                "Replace the page whose next reference will be the shortest time in the future.",
+                "Replace the page whose most recent reference was the shortest time in the past.",
+                "Replace the page whose most recent reference was the longest time in the past."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Sometimes the object module produced by a compiler includes information (from the symbol table) mapping all source program names to their addresses. The most likely purpose of this information is",
+            "choices": [
+                "for use as input to a debugging aid",
+                "to increase the run-time efficiency of the program",
+                "for the reduction of the symbol-table space needed by the compiler",
+                "to tell the loader where each variable belongs"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following regular expressions is equivalent to (describes the same set of strings as) (a* + b)*(c + d)?",
+            "choices": [
+                "a*(c + d)+ b(c + d)",
+                "a*(c + d)* + b(c + d)*",
+                "a*(c + d)+ b*(c + d)",
+                "(a + b)*c +(a + b)*d"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Consider the following possible data structures for a set of n distinct integers.\nI. A min-heap\nII. An array of length n sorted in increasing order\nIII. A balanced binary search tree\nFor which of these data structures is the number of steps needed to find and remove the 7th largest element O(log n) in the worst case?",
+            "choices": [
+                "I only",
+                "II only",
+                "I and II",
+                "II and III"
+            ],
+            "answer": 3
+        }
+    ]
+}

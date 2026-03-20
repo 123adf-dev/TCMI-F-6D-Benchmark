@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "For patients with asthma, how many times a day should a peak flow reading be taken?",
+            "choices": [
+                "Daily.",
+                "Twice a day.",
+                "Three times a week.",
+                "Once a week."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following is true regarding the examination of the legs?",
+            "choices": [
+                "Sustained clonus occurs with hypotonia",
+                "Clonus can only be demonstrated at the ankle",
+                "The root value of hip flexion is L4, L5",
+                "The root value of toe extension is L5"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is true with regards to the anatomy involved in the rectal examination?",
+            "choices": [
+                "The sacrum is palpated anteriorly",
+                "The pubic bone is palpated anteriorly in both sexes",
+                "In the male the testes can be appreciated anteriorly",
+                "The cervix can sometimes be felt anteriorly in the female"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "In the assessment of the hand function which of the following is true?",
+            "choices": [
+                "Abduction of the thumb is supplied by spinal root T2",
+                "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+                "Finger adduction is supplied by the median nerve",
+                "Finger abduction is mediated by the palmar interossei"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "How long can a long-term catheter stay in situ?",
+            "choices": [
+                "4 weeks.",
+                "7 weeks.",
+                "12 weeks.",
+                "20 weeks."
+            ],
+            "answer": 2
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?\"",
+            "choices": [
+                "An intrinsic desire to know the truth.",
+                "Moral drive to act toward what is good.",
+                "A subset of our ego that acts towards what is right.",
+                "Our desire for love."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "An allele that is masked is referred to as:",
+            "choices": [
+                "recessive.",
+                "redundant.",
+                "repressed.",
+                "reclusive."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Human beings require many outside resources in order to survive. An individual will not survive without water, air, etc. Thankfully, the human brain is wired to seek out these resources when they are depleted before harm occurs to the individual. The downside of this, however, is that they can produce too much reward, and become a temptation. Which of the following statements would mean a desire has become a temptation?",
+            "choices": [
+                "A person desiring to lose weight makes a late night snack to quell a craving.",
+                "A marathon runner seeks out water after finishing a race.",
+                "A free diver delays leaving the beach after a dive by a few minutes in order to regain their breath.",
+                "A person pauses their show on TV in order to grab a blanket because they are cold."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "How many chromosomes do all human somatic cells contain?",
+            "choices": [
+                "3",
+                "20",
+                "23",
+                "46"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at the very bottom of the side. How fast will water empty from the jug?",
+            "choices": [
+                "4.47 m/s",
+                "6.25 m/s",
+                "8.26 m/s",
+                "2.22 m/s"
+            ],
+            "answer": 0
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "Large triplet repeat expansions can be detected by:",
+            "choices": [
+                "polymerase chain reaction.",
+                "single strand conformational polymorphism analysis.",
+                "Southern blotting.",
+                "Western blotting."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "If an autosomal recessive disorder which shows Hardy-Weinberg equilibrium has an incidence of 1 in 6400 then the frequency of carriers is approximately _______.",
+            "choices": [
+                "1 in 20",
+                "1 in 40",
+                "1 in 80",
+                "1 in 160"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following statements about heritability are true?",
+            "choices": [
+                "is a measure of the level of heterozygotes in a population",
+                "is a measure of the proportion of variation that is due to genetic causes",
+                "is a measure of proportion of repeated DNA in an organism",
+                "is a measure of level of gene linkage"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Marfan syndrome is caused by mutations in the gene which encodes _______.",
+            "choices": [
+                "Collagen",
+                "Dystrophin",
+                "Elastin",
+                "Fibrillin"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Why were low-carbohydrate diets not recommended previously?",
+            "choices": [
+                "Due to less weight loss efficacy",
+                "Due to low adherence to the diet",
+                "Due to the high protein content of the diet",
+                "Due to possible cardiovascular side-effects"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following factors inhibits non-haem iron bioavailability the most?",
+            "choices": [
+                "Phytic acid",
+                "Citric acid",
+                "Vegetable protein",
+                "Calcium"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What mechanisms potentially accelerate age related cognitive decline (as of 2020 medical knowledge)",
+            "choices": [
+                "Glucose neurotoxicity",
+                "Insulin insensitivity",
+                "Systemic inflammation",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A common anthropometric measure for infants is:",
+            "choices": [
+                "Standing height",
+                "Recumbent length",
+                "Sitting height",
+                "Laying height"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Normal growth can be defined as BMI between:",
+            "choices": [
+                "75th and 2nd BMI centile",
+                "91st and 2nd BMI centile",
+                "99.6th and 0.4th BMI centile",
+                "75th and 25th BMI centile"
+            ],
+            "answer": 1
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "In Yann LeCun's cake, the cherry on top is",
+            "choices": [
+                "reinforcement learning",
+                "self-supervised learning",
+                "unsupervised learning",
+                "supervised learning"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which image data augmentation is most common for natural images?",
+            "choices": [
+                "random crop and horizontal flip",
+                "random crop and vertical flip",
+                "posterization",
+                "dithering"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "A 6-sided die is rolled 15 times and the results are: side 1 comes up 0 times; side 2: 1 time; side 3: 2 times; side 4: 3 times; side 5: 4 times; side 6: 5 times. Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",
+            "choices": [
+                "2.0/15",
+                "1.0/7",
+                "3.0/16",
+                "1.0/5"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \\sum (y_n − β_0)^2 . We have a half term in the front because,",
+            "choices": [
+                "scaling MSE by half makes gradient descent converge faster.",
+                "presence of half makes it easy to do grid search.",
+                "it does not matter whether half is there or not.",
+                "none of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "To achieve an 0/1 loss estimate that is less than 1 percent of the true 0/1 loss (with probability 95%), according to Hoeffding's inequality the IID test set must have how many examples?",
+            "choices": [
+                "around 10 examples",
+                "around 100 examples",
+                "between 100 and 500 examples",
+                "more than 1000 examples"
+            ],
+            "answer": 3
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "Let f(X) = if x = 1 then 0 else [x * f(x - 1) + x**2]. The value of f(4) is",
+            "choices": [
+                "53",
+                "29",
+                "50",
+                "100"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Sometimes the object module produced by a compiler includes information (from the symbol table) mapping all source program names to their addresses. The most likely purpose of this information is",
+            "choices": [
+                "for use as input to a debugging aid",
+                "to increase the run-time efficiency of the program",
+                "for the reduction of the symbol-table space needed by the compiler",
+                "to tell the loader where each variable belongs"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Church's thesis equates the concept of \"computable function\" with those functions computable by, for example, Turing machines. Which of the following is true of Church's thesis?",
+            "choices": [
+                "It was first proven by Alan Turing.",
+                "It has not yet been proven, but finding a proof is a subject of active research.",
+                "It can never be proven.",
+                "It is now in doubt because of the advent of parallel computers."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Suppose there is an open (external) hash table with four buckets, numbered 0,1,2,3, and integers are hashed into these buckets using hash function h(x) = x mod 4. If the sequence of perfect squares 1,4,9, ... , i^2, ... is hashed into the table, then, as the total number of entries in the table grows, what will happen?",
+            "choices": [
+                "Two of the buckets will each get approximately half the entries, and the other two will remain empty.",
+                "All buckets will receive approximately the same number of entries.",
+                "All entries will go into one particular bucket.",
+                "All buckets will receive entries, but the difference between the buckets with smallest and largest number of entries will grow."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Suppose it takes 1 second to factor a general 100 x 100 matrix using Gaussian elimination. Of the following, which is the best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions?",
+            "choices": [
+                "5",
+                "10",
+                "25",
+                "125"
+            ],
+            "answer": 3
+        }
+    ]
+}

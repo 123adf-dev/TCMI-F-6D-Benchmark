@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "What is the difference between a male and a female catheter?",
+            "choices": [
+                "Male and female catheters are different colours.",
+                "Male catheters are longer than female catheters.",
+                "Male catheters are bigger than female catheters.",
+                "Female catheters are longer than male catheters."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Glycolysis is the name given to the pathway involving the conversion of:",
+            "choices": [
+                "glycogen to glucose-1-phosphate.",
+                "glycogen or glucose to fructose.",
+                "glycogen or glucose to pyruvate or lactate.",
+                "glycogen or glucose to pyruvate or acetyl CoA."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In the assessment of the hand function which of the following is true?",
+            "choices": [
+                "Abduction of the thumb is supplied by spinal root T2",
+                "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+                "Finger adduction is supplied by the median nerve",
+                "Finger abduction is mediated by the palmar interossei"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The energy for all forms of muscle contraction is provided by:",
+            "choices": [
+                "ATP.",
+                "ADP.",
+                "phosphocreatine.",
+                "oxidative phosphorylation."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?",
+            "choices": [
+                "4",
+                "3",
+                "2",
+                "1"
+            ],
+            "answer": 2
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "Which of the following is not a true statement?",
+            "choices": [
+                "Muscle glycogen is broken down enzymatically to glucose-1-phosphate",
+                "Elite endurance runners have a high proportion of Type I fibres in their leg muscles",
+                "Liver glycogen is important in the maintenance of the blood glucose concentration",
+                "Insulin promotes glucose uptake by all tissues in the body"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "An expected side effect of creatine supplementation is:",
+            "choices": [
+                "muscle weakness.",
+                "gain in body mass.",
+                "muscle cramps.",
+                "loss of electrolytes."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In a genetic test of a newborn, a rare genetic disorder is found that has X-linked recessive transmission. Which of the following statements is likely true regarding the pedigree of this disorder?",
+            "choices": [
+                "All descendants on the maternal side will have the disorder.",
+                "Females will be approximately twice as affected as males in this family.",
+                "All daughters of an affected male will be affected.",
+                "There will be equal distribution of males and females affected."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Glucose is transported into the muscle cell:",
+            "choices": [
+                "via protein transporters called GLUT4.",
+                "only in the presence of insulin.",
+                "via hexokinase.",
+                "via monocarbylic acid transporters."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",
+            "choices": [
+                "Increasing temperature, increasing moles of gas",
+                "Increasing temperature, increasing volume",
+                "Decreasing volume, decreasing temperature",
+                "Decreasing moles of gas, increasing volume"
+            ],
+            "answer": 0
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "DNA ligase is",
+            "choices": [
+                "an enzyme that joins fragments in normal DNA replication",
+                "an enzyme of bacterial origin which cuts DNA at defined base sequences",
+                "an enzyme that facilitates transcription of specific genes",
+                "an enzyme which limits the level to which a particular nutrient reaches"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "A gene showing codominance",
+            "choices": [
+                "has both alleles independently expressed in the heterozygote",
+                "has one allele dominant to the other",
+                "has alleles tightly linked on the same chromosome",
+                "has alleles expressed at the same time in development"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Large triplet repeat expansions can be detected by:",
+            "choices": [
+                "polymerase chain reaction.",
+                "single strand conformational polymorphism analysis.",
+                "Southern blotting.",
+                "Western blotting."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following conditions does not show multifactorial inheritance?",
+            "choices": [
+                "Pyloric stenosis",
+                "Schizophrenia",
+                "Spina bifida (neural tube defects)",
+                "Marfan syndrome"
+            ],
+            "answer": 3
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Which of the following statements is correct (according to knowledge in 2020)?\n",
+            "choices": [
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener aspartame",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener saccharin",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener sucralose",
+                "Consumers with phenylketonuria must avoid the consumption of the sweetener acesulfame K"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the first-line drug for patients with type 2 diabetes and obesity, as of 2020?\n",
+            "choices": [
+                "Acarbose",
+                "Metformin",
+                "Sulphonylureas",
+                "Insulin"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following is the most plausible explanation for the protective effect of dietary fibre against cancer of the colon, as of 2020?\n",
+            "choices": [
+                "Propionic acid, formed during colonic fibre fermentation inhibits liver fatty acid synthesis",
+                "Butyric acid, formed during colonic fibre fermentation stimulates \"silencing\" of the SLC5A8 tumour suppressor gene",
+                "None of these options are correct",
+                "Butyric acid, formed during colonic fibre fermentation stimulates anti-oxidant defences in the colon"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "In a cohort study, the risk ratio of developing diabetes was 0.86 when comparing consumers of tea (the exposed) to those who did not drink tea (the unexposed). Which one statement is correct (according to knowledge in 2020)?\n",
+            "choices": [
+                "The tea drinkers have lower risk of developing diabetes.",
+                "The tea drinkers have higher risk of developing diabetes.",
+                "Based on the information given we cannot tell if the observed difference in disease risk is the result of chance.",
+                "The risk ratio is close to the value one, so there is no difference in disease risk between the two groups."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following statements about iodine is correct, as of 2020?\n",
+            "choices": [
+                "50% of adults consume iodine at levels below the RNI",
+                "Dairy products are a poor source of iodine",
+                "The iodine content of organic milk is generally lower that the level in non-organic milk",
+                "UK dietary reference values recommend an increase in iodine intake in pregnancy"
+            ],
+            "answer": 2
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "Which image data augmentation is most common for natural images?",
+            "choices": [
+                "random crop and horizontal flip",
+                "random crop and vertical flip",
+                "posterization",
+                "dithering"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Traditionally, when we have a real-valued input attribute during decision-tree learning we consider a binary split according to whether the attribute is above or below some threshold. Pat suggests that instead we should just have a multiway split with one branch for each of the distinct values of the attribute. From the list below choose the single biggest problem with Pat’s suggestion:",
+            "choices": [
+                "It is too computationally expensive.",
+                "It would probably result in a decision tree that scores badly on the training set and a testset.",
+                "It would probably result in a decision tree that scores well on the training set but badly on a testset.",
+                "It would probably result in a decision tree that scores well on a testset but badly on a training set."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "You are reviewing papers for the World’s Fanciest Machine Learning Conference, and you see submissions with the following claims. Which ones would you consider accepting? ",
+            "choices": [
+                "My method achieves a training error lower than all previous methods!",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.)",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)",
+                "My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A 6-sided die is rolled 15 times and the results are: side 1 comes up 0 times; side 2: 1 time; side 3: 2 times; side 4: 3 times; side 5: 4 times; side 6: 5 times. Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",
+            "choices": [
+                "2.0/15",
+                "1.0/7",
+                "3.0/16",
+                "1.0/5"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "To achieve an 0/1 loss estimate that is less than 1 percent of the true 0/1 loss (with probability 95%), according to Hoeffding's inequality the IID test set must have how many examples?",
+            "choices": [
+                "around 10 examples",
+                "around 100 examples",
+                "between 100 and 500 examples",
+                "more than 1000 examples"
+            ],
+            "answer": 3
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "A certain pipelined RISC machine has 8 general-purpose registers R0, R1, . . . , R7 and supports the following operations.\nADD Rs1, Rs2, Rd Add Rs1 to Rs2 and put the sum in Rd\nMUL Rs1, Rs2, Rd Multiply Rs1 by Rs2 and put the product in Rd\nAn operation normally takes one cycle; however, an operation takes two cycles if it produces a result required by the immediately following operation in an operation sequence. Consider the expression AB + ABC + BC, where variables A, B, C are located in registers R0, R1, R2. If the contents of these three registers must not be modified, what is the minimum number of clock cycles required for an operation sequence that computes the value of AB + ABC + BC?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Consider a computer design in which multiple processors, each with a private cache memory, share global memory using a single bus. This bus is the critical system resource. Each processor can execute one instruction every 500 nanoseconds as long as memory references are satisfied by its local cache. When a cache miss occurs, the processor is delayed for an additional 2,000 nanoseconds. During half of this additional delay, the bus is dedicated to serving the cache miss. During the other half, the processor cannot continue, but the bus is free to service requests from other processors. On average, each instruction requires 2 memory references. On average, cache misses occur on 1 percent of references. What proportion of the capacity of the bus would a single processor consume, ignoring delays due to competition from other processors?",
+            "choices": [
+                "1/50",
+                "1/27",
+                "1/25",
+                "2/27"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The Singleton design pattern is used to guarantee that only a single instance of a class may be instantiated. Which of the following is (are) true of this design pattern?\nI. The Singleton class has a static factory method to provide its instance.\nII. The Singleton class can be a subclass of another class.\nIII. The Singleton class has a private constructor.",
+            "choices": [
+                "I only",
+                "II only",
+                "III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following regular expressions is equivalent to (describes the same set of strings as) (a* + b)*(c + d)?",
+            "choices": [
+                "a*(c + d)+ b(c + d)",
+                "a*(c + d)* + b(c + d)*",
+                "a*(c + d)+ b*(c + d)",
+                "(a + b)*c +(a + b)*d"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A compiler generates code for the following assignment statement.\nG := (A + B) * C - (D + E) * F\nThe target machine has a single accumulator and a single-address instruction set consisting of instructions load, store, add, subtract, and multiply. For the arithmetic operations, the left operand is taken from the accumulator and the result appears in the accumulator. The smallest possible number of instructions in the resulting code is",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "9"
+            ],
+            "answer": 3
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "The following are features of Alzheimer's disease except:",
+            "choices": [
+                "short-term memory loss.",
+                "confusion.",
+                "poor attention.",
+                "drowsiness."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Glycolysis is the name given to the pathway involving the conversion of:",
+            "choices": [
+                "glycogen to glucose-1-phosphate.",
+                "glycogen or glucose to fructose.",
+                "glycogen or glucose to pyruvate or lactate.",
+                "glycogen or glucose to pyruvate or acetyl CoA."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "How long can a long-term catheter stay in situ?",
+            "choices": [
+                "4 weeks.",
+                "7 weeks.",
+                "12 weeks.",
+                "20 weeks."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What should be done after catheterization is carried out?",
+            "choices": [
+                "The patient should be thanked.",
+                "The patient should be advised when to drink.",
+                "Document catheterization in the patient",
+                " "
+            ],
+            "answer": 2
+        },
+        {
+            "question": "The coding sequences of genes are called:",
+            "choices": [
+                "extrons.",
+                "exons.",
+                "introns.",
+                "codons."
+            ],
+            "answer": 1
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?",
+            "choices": [
+                "The ability to regulate body temperature.",
+                "The ability to supply oxygen to the exercising muscles.",
+                "The availability of body stores of carbohydrate.",
+                "Muscle ATP and phosphocreatine content."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A young adult man begins seeing a therapist and tells the therapist that he has homosexual feelings, and that he self-identifies as gay. He is plagued by feelings of worthlessness and fears that he will be subject to what his religion terms “eternal damnation”. He feels alienated from his family and friends, as he knows of no other homosexuals in his peer group or family. In the course of working with the man, the therapist helps him see that his feelings are exceptionally common among people who have recently discovered their same-sex feelings, and encourages him to attend a support group for newly “out” gay men. The therapist’s approach demonstrates which of the following phenomena?",
+            "choices": [
+                "Stereotype threat",
+                "Groupthink",
+                "Universalization",
+                "Spatial discrimination"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "The two principal contractile proteins found in skeletal muscle are:",
+            "choices": [
+                "actin and troponin.",
+                "actin and myosin.",
+                "troponin and tropomyosin.",
+                "myosin and tropomyosin."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In all-out exercise such as sprinting the first fibre types to fatigue are the:",
+            "choices": [
+                "Type I fibres.",
+                "Type Ia fibres.",
+                "Type IIa fibres.",
+                "Type IIX fibres."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A student observes that mercury forms a convex meniscus in the graduated cylinder but that water forms a concave one. This behavior is best explained by the fact that:",
+            "choices": [
+                "the two liquids are being kept in graduated cylinders made of different materials.",
+                "the adhesive forces between water and the walls of the graduated cylinder are greater than the adhesive forces between the mercury and the walls of the graduated cylinder.",
+                "the cohesive forces between two mercury atoms are stronger than the cohesive forces between two water molecules.",
+                "the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones."
+            ],
+            "answer": 3
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "Mutations which occur in body cells which do not go on to form gametes can be classified as:",
+            "choices": [
+                "auxotrophic mutations",
+                "somatic mutations",
+                "morphological mutations",
+                "oncogenes"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The “sticky ends” generated by restriction enzymes allow",
+            "choices": [
+                "selection for plasmids lacking antibiotic resistance",
+                "pieces of DNA from different sources to hybridize to each other and to be joined together",
+                "replication of transfer RNA within the bacterial cell",
+                "easy identification of plasmids which carry an insert"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Marfan syndrome is caused by mutations in the gene which encodes _______.",
+            "choices": [
+                "Collagen",
+                "Dystrophin",
+                "Elastin",
+                "Fibrillin"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following statements about heritability are true?",
+            "choices": [
+                "is a measure of the level of heterozygotes in a population",
+                "is a measure of the proportion of variation that is due to genetic causes",
+                "is a measure of proportion of repeated DNA in an organism",
+                "is a measure of level of gene linkage"
+            ],
+            "answer": 1
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Which of the following vitamins is involved in transamination of amino acids?",
+            "choices": [
+                "Niacin",
+                "Riboflavin",
+                "Thiamin",
+                "Vitamin B6"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is the most frequently used anthropometric measure to estimate body mass?",
+            "choices": [
+                "Fat-free mass",
+                "Body fat",
+                "Body height",
+                "Body weight"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following statements is correct?",
+            "choices": [
+                "Insulin suppresses the activity of glycogen synthase",
+                "Insulin mediates glucose uptake in the brain",
+                "\"Prediabetes\" is a condition characterized by an increased risk for the future development of type 2 diabetes",
+                "The rise in insulin concentration after meal ingestion is reduced in type 1 but not in type 2 diabetes"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following are not true regarding macrobiotic and vegan diets?",
+            "choices": [
+                "Low in fat",
+                "High in fibre",
+                "Low in sugar",
+                "Low energy density"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the difference between LCD and VLCD?",
+            "choices": [
+                "VLCD provides less energy than LCD and usually does not include natural foods",
+                "LCD provides less energy than LCD and usually does not include natural foods",
+                "LCD provides less energy than VLCD and usually includes natural foods",
+                "VLCD provides less energy than LCD and usually includes natural foods"
+            ],
+            "answer": 0
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "A 6-sided die is rolled 15 times and the results are: side 1 comes up 0 times; side 2: 1 time; side 3: 2 times; side 4: 3 times; side 5: 4 times; side 6: 5 times. Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",
+            "choices": [
+                "2.0/15",
+                "1.0/7",
+                "3.0/16",
+                "1.0/5"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which image data augmentation is most common for natural images?",
+            "choices": [
+                "random crop and horizontal flip",
+                "random crop and vertical flip",
+                "posterization",
+                "dithering"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network.",
+            "choices": [
+                "Should not set it to zero since otherwise it will cause overfitting",
+                "Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space",
+                "Should set it to zero since otherwise it causes a bias",
+                "Should set it to zero in order to preserve symmetry across all neurons"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "In Yann LeCun's cake, the cherry on top is",
+            "choices": [
+                "reinforcement learning",
+                "self-supervised learning",
+                "unsupervised learning",
+                "supervised learning"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option.",
+            "choices": [
+                "High variance",
+                "High model bias",
+                "High estimation bias",
+                "None of the above"
+            ],
+            "answer": 0
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "Sometimes the object module produced by a compiler includes information (from the symbol table) mapping all source program names to their addresses. The most likely purpose of this information is",
+            "choices": [
+                "for use as input to a debugging aid",
+                "to increase the run-time efficiency of the program",
+                "for the reduction of the symbol-table space needed by the compiler",
+                "to tell the loader where each variable belongs"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Let f(X) = if x = 1 then 0 else [x * f(x - 1) + x**2]. The value of f(4) is",
+            "choices": [
+                "53",
+                "29",
+                "50",
+                "100"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Consider the following possible data structures for a set of n distinct integers.\nI. A min-heap\nII. An array of length n sorted in increasing order\nIII. A balanced binary search tree\nFor which of these data structures is the number of steps needed to find and remove the 7th largest element O(log n) in the worst case?",
+            "choices": [
+                "I only",
+                "II only",
+                "I and II",
+                "II and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The Singleton design pattern is used to guarantee that only a single instance of a class may be instantiated. Which of the following is (are) true of this design pattern?\nI. The Singleton class has a static factory method to provide its instance.\nII. The Singleton class can be a subclass of another class.\nIII. The Singleton class has a private constructor.",
+            "choices": [
+                "I only",
+                "II only",
+                "III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "If L is a language accepted by some automaton M, which of the following is (are) true?\nI. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.\nII. If M is a deterministic pushdown automaton, then L is accepted by some nondeterministic pushdown automaton.\nIII. If M is a nondeterministic pushdown automaton, then L is accepted by some deterministic Turing machine.",
+            "choices": [
+                "III only",
+                "I and II only",
+                "II and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        }
+    ]
+}

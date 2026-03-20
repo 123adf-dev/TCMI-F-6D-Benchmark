@@ -1,0 +1,314 @@
+{
+    "clinical_knowledge": [
+        {
+            "question": "How can several different proteins be produced from the same gene?",
+            "choices": [
+                "By selective transcription of different parts of the DNA in the gene.",
+                "By doubling or tripling the length of the mRNA molecule produced from the primary transcript.",
+                "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+                "By splicing of the mRNA molecule after it has been formed from the primary transcript."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "How long can a long-term catheter stay in situ?",
+            "choices": [
+                "4 weeks.",
+                "7 weeks.",
+                "12 weeks.",
+                "20 weeks."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Why might you choose to use a silicone catheter (as of 2020 medical knowledge)?",
+            "choices": [
+                "Because the patient does not like the others.",
+                "Because the patient is allergic to latex.",
+                "Because there are no other kinds of catheter at your disposal.",
+                "Because it is cheaper."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who set the world record for the mile race in 1886?",
+            "choices": [
+                "R Bannister",
+                "S Coe",
+                "J DiMaggio",
+                "WG George"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The energy for all forms of muscle contraction is provided by:",
+            "choices": [
+                "ATP.",
+                "ADP.",
+                "phosphocreatine.",
+                "oxidative phosphorylation."
+            ],
+            "answer": 0
+        }
+    ],
+    "college_medicine": [
+        {
+            "question": "A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",
+            "choices": [
+                "Increasing temperature, increasing moles of gas",
+                "Increasing temperature, increasing volume",
+                "Decreasing volume, decreasing temperature",
+                "Decreasing moles of gas, increasing volume"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?\"",
+            "choices": [
+                "An intrinsic desire to know the truth.",
+                "Moral drive to act toward what is good.",
+                "A subset of our ego that acts towards what is right.",
+                "Our desire for love."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "The social phenomenon of groupthink is characterized by all of the following EXCEPT:",
+            "choices": [
+                "A significant over-rating of the decision-making abilities of members of the ingroup.",
+                "A decrease in the creativity of individual group members in contributing to solutions the ingroup wants to achieve.",
+                "High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions.",
+                "An effort to minimize conflict and ensure consensus."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In general, the higher the intensity of exercise, the greater the proportional contribution of:",
+            "choices": [
+                "aerobic energy production.",
+                "anaerobic energy production.",
+                "the TCA cycle (Krebs",
+                " "
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The recommended dose of creatine to load the muscles of a 70 kg man within one week is:",
+            "choices": [
+                "2 g/day.",
+                "5 g/day.",
+                "10 g/day.",
+                "20 g/day."
+            ],
+            "answer": 3
+        }
+    ],
+    "medical_genetics": [
+        {
+            "question": "The allele associated with sickle cell anemia apparently reached a high frequency in some human populations due to:",
+            "choices": [
+                "random mating",
+                "superior fitness of heterozygotes in areas where malaria was present",
+                "migration of individuals with the allele into other populations",
+                "a high mutation rate at that specific gene"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+            "choices": [
+                "prophase I",
+                "metaphase I",
+                "prophase II",
+                "metaphase II"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following statements about heritability are true?",
+            "choices": [
+                "is a measure of the level of heterozygotes in a population",
+                "is a measure of the proportion of variation that is due to genetic causes",
+                "is a measure of proportion of repeated DNA in an organism",
+                "is a measure of level of gene linkage"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Repeat core sequences consisting of 2, 3, or 4 base pairs are known as what?",
+            "choices": [
+                "Single nucleotide polymorphisms (SNPs)",
+                "Microsatellites",
+                "Minisatellites",
+                "Satellites"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The “sticky ends” generated by restriction enzymes allow",
+            "choices": [
+                "selection for plasmids lacking antibiotic resistance",
+                "pieces of DNA from different sources to hybridize to each other and to be joined together",
+                "replication of transfer RNA within the bacterial cell",
+                "easy identification of plasmids which carry an insert"
+            ],
+            "answer": 1
+        }
+    ],
+    "nutrition": [
+        {
+            "question": "Which of the following is the most frequently used anthropometric measure to estimate body mass?",
+            "choices": [
+                "Fat-free mass",
+                "Body fat",
+                "Body height",
+                "Body weight"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following is the most plausible explanation for the protective effect of dietary fibre against cancer of the colon, as of 2020?\n",
+            "choices": [
+                "Propionic acid, formed during colonic fibre fermentation inhibits liver fatty acid synthesis",
+                "Butyric acid, formed during colonic fibre fermentation stimulates \"silencing\" of the SLC5A8 tumour suppressor gene",
+                "None of these options are correct",
+                "Butyric acid, formed during colonic fibre fermentation stimulates anti-oxidant defences in the colon"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A common anthropometric measure for infants is:",
+            "choices": [
+                "Standing height",
+                "Recumbent length",
+                "Sitting height",
+                "Laying height"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the mechanisms below can explain why high protein diets are optimal for weight loss and weight maintenance?",
+            "choices": [
+                "Synergistic effect of GLP-1 and PYY on the appetite centres in the brain",
+                "Preservation of lean body mass",
+                "A higher thermic effect of protein than carbohydrates and fats",
+                "All of the options above"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following statements is correct?",
+            "choices": [
+                "Insulin suppresses the activity of glycogen synthase",
+                "Insulin mediates glucose uptake in the brain",
+                "\"Prediabetes\" is a condition characterized by an increased risk for the future development of type 2 diabetes",
+                "The rise in insulin concentration after meal ingestion is reduced in type 1 but not in type 2 diabetes"
+            ],
+            "answer": 2
+        }
+    ],
+    "machine_learning": [
+        {
+            "question": "Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________",
+            "choices": [
+                "higher",
+                "same",
+                "lower",
+                "it could be any of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z?",
+            "choices": [
+                "P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y)",
+                "P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y)",
+                "P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z)",
+                "P(X, Y, Z) = P(X) * P(Y) * P(Z)"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \\sum (y_n − β_0)^2 . We have a half term in the front because,",
+            "choices": [
+                "scaling MSE by half makes gradient descent converge faster.",
+                "presence of half makes it easy to do grid search.",
+                "it does not matter whether half is there or not.",
+                "none of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which image data augmentation is most common for natural images?",
+            "choices": [
+                "random crop and horizontal flip",
+                "random crop and vertical flip",
+                "posterization",
+                "dithering"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "You are reviewing papers for the World’s Fanciest Machine Learning Conference, and you see submissions with the following claims. Which ones would you consider accepting? ",
+            "choices": [
+                "My method achieves a training error lower than all previous methods!",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.)",
+                "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)",
+                "My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.)"
+            ],
+            "answer": 2
+        }
+    ],
+    "college_computer_science": [
+        {
+            "question": "Suppose there is an open (external) hash table with four buckets, numbered 0,1,2,3, and integers are hashed into these buckets using hash function h(x) = x mod 4. If the sequence of perfect squares 1,4,9, ... , i^2, ... is hashed into the table, then, as the total number of entries in the table grows, what will happen?",
+            "choices": [
+                "Two of the buckets will each get approximately half the entries, and the other two will remain empty.",
+                "All buckets will receive approximately the same number of entries.",
+                "All entries will go into one particular bucket.",
+                "All buckets will receive entries, but the difference between the buckets with smallest and largest number of entries will grow."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "If L is a language accepted by some automaton M, which of the following is (are) true?\nI. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.\nII. If M is a deterministic pushdown automaton, then L is accepted by some nondeterministic pushdown automaton.\nIII. If M is a nondeterministic pushdown automaton, then L is accepted by some deterministic Turing machine.",
+            "choices": [
+                "III only",
+                "I and II only",
+                "II and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Sometimes the object module produced by a compiler includes information (from the symbol table) mapping all source program names to their addresses. The most likely purpose of this information is",
+            "choices": [
+                "for use as input to a debugging aid",
+                "to increase the run-time efficiency of the program",
+                "for the reduction of the symbol-table space needed by the compiler",
+                "to tell the loader where each variable belongs"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine?\nI. Evaluation order of rules\nII. Evaluation order of clauses\nIII. Evaluation order of arguments in each clause",
+            "choices": [
+                "II only",
+                "I and II only",
+                "I and III only",
+                "I, II, and III"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Consider a computer design in which multiple processors, each with a private cache memory, share global memory using a single bus. This bus is the critical system resource. Each processor can execute one instruction every 500 nanoseconds as long as memory references are satisfied by its local cache. When a cache miss occurs, the processor is delayed for an additional 2,000 nanoseconds. During half of this additional delay, the bus is dedicated to serving the cache miss. During the other half, the processor cannot continue, but the bus is free to service requests from other processors. On average, each instruction requires 2 memory references. On average, cache misses occur on 1 percent of references. What proportion of the capacity of the bus would a single processor consume, ignoring delays due to competition from other processors?",
+            "choices": [
+                "1/50",
+                "1/27",
+                "1/25",
+                "2/27"
+            ],
+            "answer": 1
+        }
+    ]
+}
